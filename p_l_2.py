@@ -85,6 +85,7 @@ print(merged_dict)
 # takes a string and prints the longest
 # alphabetical ordered substring occured.
 # For example, if the string is 'abdulrahman' then the output is:
+
 def longest_alphabetical_substring(s):
     longest = current = s[0]
 
